@@ -1,0 +1,55 @@
+header {
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.nav-bar ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 0 2%;
+
+}
+
+span.disabled {
+	color: grey;
+}
+
+.disabled {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+#red {
+	color: red;
+}
+
+#blue {
+	color: blue;
+}
+
+#sibred {
+	background-color: red;
+}
+
+#sibblue {
+	background-color: blue;
+}
+
+#gchild {
+	border-style: solid;
+	border-radius: 3px;
+	border-width: 1px
+}
+
+.promo {
+	color: gold;
+	font-weight: bold;
+}
+
+input {
+	height: 25px;
+}
